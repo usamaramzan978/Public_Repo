@@ -1,0 +1,6 @@
+horse 
+dog
+lion
+cheetah
+cow 
+bufalo
